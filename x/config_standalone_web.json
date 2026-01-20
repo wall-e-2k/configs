@@ -1,0 +1,22 @@
+{
+  "host_domain": "https://cfg.atpman.net/",
+  "api_domain": "https://api2.atpman.net/",
+  "iFrame_domain": "https://game.789club.vip/",
+  "lp_domain": "https://789.club/",
+  "rs_domain": "https://rsweb.vtnhatz.com/",
+  "rs_static_domain": "https://rsweb.789static.com/",
+  "sport_domain": "https://sport.atpman.net/",
+  "ws_sport_domain": "wss://wssport.atpman.net/websocket",
+  "top_sport_domain": "https://top-sport.atpman.net/sport/top",
+  "bc_livestream_domain": "https://api-bc-789.gameland.vip/api/v1/",
+  "bc_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "bc_livestream_ws_url_new": "wss://ws-baucua-ls.atpman.net/websocket",
+  "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
+  "xd_livestream_ws_url" : "wss://socket-bc-789.gameland.vip/",
+  "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
+  "xd_livestream_video_url" : "xocdialive_789_withautoplay_15w.html",
+  "tx_livestream_ws_url" : "wss://ws-taixiu-ls.atpman.net/websocket",
+  "tx_livestream_video_url" : "taixiulive_789_withautoplay_15w.html",
+  "appName": "789club",
+  "brand": "789.club"
+}
