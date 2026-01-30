@@ -2,9 +2,9 @@
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
   "tracking_url": "https://api.atpman.net/et/v1/event-tracking",
-  "iFrame_domain": "https://play.789club.so/",
+  "iFrame_domain": "https://play.789club.luxe/",
   "lp_domain_origin": "https://789.club/",
-  "lp_domain": "https://789club.so/",
+  "lp_domain": "https://789club.luxe/",
   "rs_domain": "https://drawlegdem.vip/resources/",
   "rs_static_domain": "https://drawlegdem.vip/resources/static/",
   "jackpots_url": "https://api100.atpman.net/gameapi/public/jackpot/all",
@@ -25,8 +25,8 @@
     "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
   },
   "loginConfig": {
-    "authorizationEndpoint": "https://login.789club.so/auth/authorize",
-    "tokenEndpoint": "https://login.789club.so/auth/token",
+    "authorizationEndpoint": "https://login.789club.luxe/auth/authorize",
+    "tokenEndpoint": "https://login.789club.luxe/auth/token",
     "clientId": "789.club"
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
