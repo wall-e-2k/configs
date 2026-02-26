@@ -20,6 +20,19 @@
   "tx_livestream_video_url" : "/prerelease/789/taixiulive_789_withautoplay_14w.html",
   "appName": "789club",
   "brand": "789.club",
+  "game_filter": [{
+      "id": 313,
+      "isHidden": true,
+      "name": "Volta"
+    }, {
+      "id": 324,
+      "isHidden": true,
+      "name": "C5 Baccarat"
+    }, {
+      "id": 320,
+      "isHidden": false,
+      "name": "C5 Rongho"
+  }],
   "files_config": {
     "prefab_baucua": {
       "totalTextFileCount": 250,
