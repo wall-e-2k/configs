@@ -24,11 +24,6 @@
     "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
     "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
   },
-  "loginConfig": {
-    "authorizationEndpoint": "https://login.789club.in/auth/authorize",
-    "tokenEndpoint": "https://login.789club.in/auth/token",
-    "clientId": "789.club"
-  },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
