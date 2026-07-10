@@ -28,6 +28,7 @@
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
+  "game_filter": [{"id":324,"isHidden":true}],
   "files_config": {
     "prefab_baucua": {
       "totalTextFileCount": 250,
