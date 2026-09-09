@@ -32,6 +32,10 @@
       "id": 320,
       "isHidden": false,
       "name": "C5 Rongho"
+    }, {
+      "id": 431,
+      "isHidden": true,
+      "name": "MT 9786"
   }],
   "files_config": {
     "prefab_baucua": {
