@@ -1,8 +1,8 @@
 {
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
-  "iFrame_domain": "https://game.789club.srl/",
-  "lp_domain": "https://789club.srl/",
+  "iFrame_domain": "https://game.789club.diy/",
+  "lp_domain": "https://789club.diy/",
   "rs_domain": "https://rsweb.vtnhatz.com/",
   "rs_static_domain": "https://rsweb.789static.com/",
   "sport_domain": "https://sport.atpman.net/",
