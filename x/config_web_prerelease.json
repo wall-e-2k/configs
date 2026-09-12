@@ -649,6 +649,15 @@
         "isEnable": true,
         "isLandscape": false,
         "typeGame": 1
+      },
+      {
+        "gameID": 254,
+        "prefabName": "data/prefabs/ico_sexy-live",
+        "position": 4,
+        "type": 2,
+        "isEnable": true,
+        "isLandscape": false,
+        "typeGame": 1
       }
   ]
 }
