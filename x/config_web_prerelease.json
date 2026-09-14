@@ -348,7 +348,7 @@
         "prefabName": "data/prefabs/ico_c5-baclongbao",
         "position": 1,
         "type": 2,
-        "isEnable": true,
+        "isEnable": false,
         "typeGame": 1
       },
       {
@@ -364,7 +364,7 @@
         "prefabName": "data/prefabs/ico_c5-roullet",
         "position": 1,
         "type": 2,
-        "isEnable": true,
+        "isEnable": false,
         "typeGame": 1
       },
       {
