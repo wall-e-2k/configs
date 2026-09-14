@@ -497,7 +497,7 @@
       },
       {
         "gameID": 204,
-        "prefabName": "data/prefabs/ico_slot-thantai",
+        "prefabName": "data/prefabs/ico_justiceleague",
         "position": 1,
         "type": 3,
         "isEnable": true,
