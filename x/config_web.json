@@ -43,6 +43,11 @@
       "id": 326,
       "isHidden": false,
       "name": "Daga"
+    },
+    {
+      "id": 303,
+      "isHidden": true,
+      "name": "Lodesieutoc"
     }
   ],
   "files_config": {
