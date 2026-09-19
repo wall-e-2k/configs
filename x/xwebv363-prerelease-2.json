@@ -432,7 +432,7 @@
         "prefabName": "data/prefabs/ico_blackjack",
         "position": 3,
         "type": 2,
-        "isEnable": true,
+        "isEnable": false,
         "typeGame": 4
       },
       {
