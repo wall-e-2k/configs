@@ -176,7 +176,7 @@
         "prefabName": "data/prefabs/ico_c5-bacc-livestream",
         "position": 1,
         "type": 2,
-        "isEnable": true,
+        "isEnable": false,
         "typeGame": 1
       },
       {
