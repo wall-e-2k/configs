@@ -24,6 +24,16 @@
     "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
     "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
   },
+  "streamUrls": {
+    "stream": {
+      "xd_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_07w.html",
+      "tx_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_07w.html"
+    },
+    "j_stream": {
+      "xd_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_07w.html",
+      "tx_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_07w.html"
+    }
+  },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
