@@ -224,7 +224,7 @@
       "prefabName": "data/prefabs/ico_rongho",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false
     },
     {
