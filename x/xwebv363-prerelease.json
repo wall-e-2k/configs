@@ -70,6 +70,14 @@
       "isLandscape": false
     },
     {
+      "gameID": 507,
+      "prefabName": "data/prefabs/ico_rongsunho",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
       "gameID": 313,
       "prefabName": "data/prefabs/ico_volta",
       "position": 0,
