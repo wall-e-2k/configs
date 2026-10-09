@@ -160,7 +160,7 @@
       "prefabName": "data/prefabs/ico_c5-bacc-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -192,7 +192,7 @@
       "prefabName": "data/prefabs/ico_c5-baclongbao",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -208,7 +208,7 @@
       "prefabName": "data/prefabs/ico_c5-roullet",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -216,7 +216,7 @@
       "prefabName": "data/prefabs/ico_c5-sicbowar",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -416,7 +416,7 @@
       "prefabName": "data/prefabs/ico_blackjack",
       "position": 3,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 4
     },
     {
