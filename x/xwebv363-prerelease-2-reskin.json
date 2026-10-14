@@ -24,6 +24,13 @@
     "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
     "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
   },
+  "loginConfig": {
+    "789.club": {
+      "authorizationEndpoint": "https://login-internal-789.sandboxg1.win/auth/authorize",
+      "tokenEndpoint": "https://login-internal-789.sandboxg1.win/auth/token",
+      "clientId": "789.club"
+    }
+  },
   "streamUrls": {
     "stream": {
       "xd_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_07w.html",
