@@ -136,7 +136,7 @@
       "prefabName": "data/prefabs/ico_sbdaga",
       "position": 1,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
