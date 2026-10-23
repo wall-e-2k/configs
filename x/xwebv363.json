@@ -43,7 +43,7 @@
       "prefabName": "data/prefabs/ico_banca",
       "position": 0,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 506,
@@ -81,7 +81,7 @@
       "prefabName": "data/prefabs/ico_sicbo",
       "position": 0,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 100,
@@ -264,7 +264,7 @@
       "prefabName": "data/prefabs/ico_trutien_mitek",
       "position": 0,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "isLandscape": false
     },
     {
