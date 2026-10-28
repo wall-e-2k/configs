@@ -53,19 +53,19 @@
       "isEnable": true
     },
     {
-      "gameID": 506,
-      "prefabName": "data/prefabs/ico_sunphung",
-      "position": 0,
-      "type": 1,
-      "isEnable": true
-    },
-    {
       "gameID": 300,
       "prefabName": "data/prefabs/ico_sb",
       "position": 0,
       "type": 1,
       "isEnable": true,
       "isLandscape": false
+    },
+    {
+      "gameID": 506,
+      "prefabName": "data/prefabs/ico_sunphung",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
     },
     {
       "gameID": 501,
