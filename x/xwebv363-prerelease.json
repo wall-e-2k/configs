@@ -235,6 +235,31 @@
       "typeGame": 1
     },
     {
+      "gameID": 9766,
+      "prefabName": "data/prefabs/ico_ninetails_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 9746,
+      "prefabName": "data/prefabs/ico_kysi_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 2992,
+      "prefabName": "data/prefabs/ico_tangbong3d_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1,
+      "isLandscape": false
+    },
+    {
       "gameID": 15,
       "prefabName": "data/prefabs/ico_rongho",
       "position": 0,
