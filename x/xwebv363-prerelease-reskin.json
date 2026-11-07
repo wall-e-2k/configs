@@ -1,42 +1,53 @@
 {
   "host_domain": "https://cfg.atpman.net/",
   "api_domain": "https://api2.atpman.net/",
-  "tracking_url": "https://api.atpman.net/et/v1/event-tracking",
-  "iFrame_domain": "https://game.789club.spa/",
+  "iFrame_domain": "https://play.789.club/",
   "lp_domain_origin": "https://789.club/",
-  "lp_domain": "https://789club.nrw/",
-  "web_domain": "https://play.789club.nrw/",
+  "lp_domain": "https://789club.adult/",
+  "web_domain": "https://play.789club.adult/",
   "rs_domain": "https://refac.demmomentumedge.vip/prerelease/",
-  "rs_static_domain": "https://rsweb.789static.com/prerelease/resources/static/",
+  "rs_static_domain": "https://rs.789static.com/resources/static/",
+  "jackpots_url": "https://api100.atpman.net/gameapi/public/jackpot/all",
   "sport_domain": "https://sport.atpman.net/",
   "ws_sport_domain": "wss://wssport.atpman.net/websocket",
+  "top_sport_domain": "https://api100.atpman.net/gameapi/public/sb/ranking",
   "bc_livestream_domain": "https://api-bc-789.gameland.vip/api/v1/",
   "bc_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "bc_livestream_ws_url_new": "wss://ws-baucua-ls.atpman.net/websocket",
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
   "xd_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
-  "xd_livestream_video_url": "/prerelease/789/xocdialive_789_withautoplay_16w.html",
+  "xd_livestream_video_url": "/prerelease/internal/livestream_page/xocdialive_789_withautoplay_03w.html",
   "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
-  "tx_livestream_video_url": "/prerelease/789/taixiulive_789_withautoplay_14w.html",
+  "tx_livestream_video_url": "/prerelease/internal/livestream_page/taixiulive_789_withautoplay_03w.html",
+  "livestreamConfig": {
+    "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
+    "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
+  },
+  "loginConfig": {
+    "789.club": {
+      "authorizationEndpoint": "https://login-internal-789.sandboxg1.win/auth/authorize",
+      "tokenEndpoint": "https://login-internal-789.sandboxg1.win/auth/token",
+      "clientId": "789.club"
+    }
+  },
+  "streamUrls": {
+    "stream": {
+      "xd_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_07w.html",
+      "tx_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_07w.html"
+    },
+    "j_stream": {
+      "xd_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_07w.html",
+      "tx_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_07w.html"
+    }
+  },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "789club",
   "brand": "789.club",
-  "loginConfig": {
-    "authorizationEndpoint": "https://login-internal.789.club/auth/authorize",
-    "tokenEndpoint": "https://login-internal.789.club/auth/token",
-    "clientId": "789.club"
-  },
   "availableGames": [
     {
       "gameID": 400,
       "prefabName": "data/prefabs/ico_banca",
-      "position": 0,
-      "type": 1,
-      "isEnable": true
-    },
-    {
-      "gameID": 506,
-      "prefabName": "data/prefabs/ico_sunphung",
       "position": 0,
       "type": 1,
       "isEnable": true
@@ -50,6 +61,13 @@
       "isLandscape": false
     },
     {
+      "gameID": 506,
+      "prefabName": "data/prefabs/ico_sunphung",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
       "gameID": 501,
       "prefabName": "data/prefabs/ico_superdragonball",
       "position": 0,
@@ -57,6 +75,14 @@
       "isEnable": true,
       "gameDisplayName": "Sun Rồng",
       "isLandscape": false
+    },
+    {
+      "gameID": 507,
+      "prefabName": "data/prefabs/ico_rongsunho",
+      "position": 1,
+      "type": 1,
+      "isEnable": true,
+      "typeGame": 1
     },
     {
       "gameID": 313,
@@ -149,7 +175,7 @@
       "prefabName": "data/prefabs/ico_c5-bacc-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -181,7 +207,7 @@
       "prefabName": "data/prefabs/ico_c5-baclongbao",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -205,15 +231,40 @@
       "prefabName": "data/prefabs/ico_c5-sicbowar",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
+    },
+    {
+      "gameID": 9766,
+      "prefabName": "data/prefabs/ico_ninetails_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 9746,
+      "prefabName": "data/prefabs/ico_kysi_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
+      "gameID": 2992,
+      "prefabName": "data/prefabs/ico_tangbong3d_mtk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1,
+      "isLandscape": false
     },
     {
       "gameID": 15,
       "prefabName": "data/prefabs/ico_rongho",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false
     },
     {
