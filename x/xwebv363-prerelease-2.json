@@ -5,7 +5,7 @@
   "lp_domain_origin": "https://789.club/",
   "lp_domain": "https://789club.adult/",
   "web_domain": "https://play.789club.adult/",
-  "rs_domain": "https://refac.demmomentumedge.vip/prerelease/",
+  "rs_domain": "https://refac.demmomentumedge.vip/prerelease-2/",
   "rs_static_domain": "https://rs.789static.com/resources/static/",
   "jackpots_url": "https://api100.atpman.net/gameapi/public/jackpot/all",
   "sport_domain": "https://sport.atpman.net/",
@@ -17,9 +17,9 @@
   "xd_livestream_domain": "https://api-xd-789.gameland.vip/api/v1/",
   "xd_livestream_ws_url": "wss://socket-bc-789.gameland.vip/",
   "xd_livestream_ws_url_new": "wss://ws-xocdia-ls.atpman.net/websocket",
-  "xd_livestream_video_url": "/prerelease/internal/livestream_page/xocdialive_789_withautoplay_03w.html",
+  "xd_livestream_video_url": "/prerelease-2/internal/livestream_page/xocdialive_789_withautoplay_03w.html",
   "tx_livestream_ws_url": "wss://ws-taixiu-ls.atpman.net/websocket",
-  "tx_livestream_video_url": "/prerelease/internal/livestream_page/taixiulive_789_withautoplay_03w.html",
+  "tx_livestream_video_url": "/prerelease-2/internal/livestream_page/taixiulive_789_withautoplay_03w.html",
   "livestreamConfig": {
     "xd_live_video_url": "internal/livestream_page/taixiulive_789_withautoplay_05w.html",
     "tx_live_video_url": "internal/livestream_page/xocdialive_789_withautoplay_05w.html"
