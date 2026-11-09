@@ -200,7 +200,7 @@
       "prefabName": "data/prefabs/ico_c5-baclongbao",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
